@@ -1,0 +1,42 @@
+
+
+.texto-carrusel{
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+
+
+
+.card-border{
+    border: solid 15px;
+    border-radius: 20px;
+    overflow: hidden;
+    transition: all ease-out 0.2s;
+}
+
+.card-border:hover{
+    transform: scale(1.05);
+}
+
+#games{
+    background-image: radial-gradient( circle 590px at 8.2% 13.8%,  rgba(18,35,60,1) 0%, #bbb 90% );
+    
+    
+}
+
+.color{
+    color: aliceblue;
+    font-family: "roboto";
+}
+
+.button-form{
+    color: black;
+    border-radius: 10px solid;
+    cursor: pointer;
+}
+
+.button-form:hover{
+    font-weight: bold;
+
+}
